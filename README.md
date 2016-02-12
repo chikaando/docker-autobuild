@@ -1,2 +1,2 @@
 # docker-autobuild
-use this test repo for testing docker autobuilds
+This repository is used for testing autobuilds.
